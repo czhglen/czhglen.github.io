@@ -6,12 +6,13 @@
   end_date: "2016"
   location: "Xi'an, Shaanxi, China"
 
-- title: "Master of Science"
+- title: "Master of Engineering"
   institution: "Xi'an Jiaotong University"
   discipline: "Power Engineering and Engineering Thermophysics"
   start_date: "2016"
   end_date: "2019"
   advisor: "Prof. Jinju Sun （孙金菊教授）"
+  topic: A numerical study of droplet dynamics on the micro-stuctured surface using two-phase Lattice Boltzmann Method （利用两相LB方法的微结构表面液滴动力学研究）
   location: "Xi'an, Shaanxi, China"
 
 - title: "Doctor of Philosophy"
