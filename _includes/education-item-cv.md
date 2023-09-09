@@ -1,4 +1,5 @@
-* **{{degree.title}}**, {{degree.start_date}} -- {% if degree.end_date %} {{degree.end_date}} {% else %} present {% endif %}  
-{% if degree.discipline %}{{degree.discipline}}{% endif %}{% if degree.topic %} *{{degree.topic}}*{% endif %}  {% if degree.advisor %}
+* **{{degree.title}}** in {{degree.discipline}}, {{degree.start_date}} -- {% if degree.end_date %} {{degree.end_date}} {% else %} present {% endif %}  
+{% if degree.discipline %}{{degree.discipline}}{% endif %}  
+{{degree.institution}}, {{degree.location}}  {% if degree.topic %} 
+Thesis: *{{degree.topic}}*{% endif %}  {% if degree.advisor %}
 Advisor: {{degree.advisor}}  {% endif %}
-*{{degree.institution}}*, {{degree.location}}
