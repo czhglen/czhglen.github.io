@@ -11,15 +11,15 @@
   discipline: "Power Engineering and Engineering Thermophysics"
   start_date: "2016"
   end_date: "2019"
-  advisor: "Prof. Jinju Sun （孙金菊教授）"
-  topic: A numerical study of droplet dynamics on the micro-stuctured surface using two-phase Lattice Boltzmann Method （利用两相LB方法的微结构表面液滴动力学研究）
+  advisor: "Prof. Jinju Sun （[孙金菊教授](https://gr.xjtu.edu.cn/web/jjsun)）"
+  topic: A numerical study of droplet dynamics on the micro-stuctured surface using two-phase Lattice Boltzmann Method （[基于两相格子玻尔兹曼方法的微结构表面液滴动力学行为研究](http://www.ir.xjtu.edu.cn/item/ir/419630)）
   location: "Xi'an, Shaanxi, China"
 
 - title: "Doctor of Philosophy"
   institution: "The University of British Columbia"
   discipline: "Mechanical Engineering"
-  topic: "Particle-resolved simulation and data-driven modelling of flows laden with polydisperse spheres."
+  topic: "[Particle-resolved simulation and data-driven modelling of flows laden with polydisperse spheres](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0435083)"
   start_date: "2019"
   end_date: "2023"
-  advisor: "Prof. Anthony Wachs, Prof. Ian Frigaard"
+  advisor: "[Prof. Anthony Wachs](https://personal.math.ubc.ca/~wachs/), [Prof. Ian Frigaard](https://blogs.ubc.ca/frigaard/)"
   location: "Vancouver, BC, Canada"
