@@ -21,7 +21,7 @@ efficient manner, I extended this coupled IB-LBM from the fixed uniform grids to
 
 This AMR-IB-LBM has been validated to be accurate, efficient and robust in various 2D and 3D flow configurations with stationary or moving solid particles. Here are two more exmaples:
 
-1. 2D flow past two cylinders in side-by-side configuration:
+* 2D flow past two cylinders in side-by-side configuration:
 
 | Flow past two cylinders |
 |:-------------------------------:|
@@ -31,7 +31,7 @@ Vorticity field | Quadtree grid
 :-------------------------------:|:-------------------------------:
 ![](../files/ST2_vorticity_400000_black.png) | ![](../files/cells_400000.png)
 
-2. 3D settling sphere in an otherwise quiescent fluid:
+* 3D settling sphere in an otherwise quiescent fluid:
 
 $Ga=49.14,\rho_{s}/\rho_{f}=2.56$ | $Ga=178.46,\rho_{s}/\rho_{f}=1.5$ | $Ga=206.27,\rho_{s}/\rho_{f}=7.71$ | $Ga=255.35,\rho_{s}/\rho_{f}=2.56$
 :-------------------------------:|:-------------------------------:|:-------------------------------:|:-------------------------------:
@@ -95,6 +95,8 @@ In this work, I employed a multiphase color-gradient lattice Boltzmann model to 
 | Shapes of 3D droplets and their contact areas |
 |:-------------------------------:|
 | ![](../files/Droplet.png) |
+
+<br />
 
 Complex vortical flows past the moving/deforming bodies
 ======
