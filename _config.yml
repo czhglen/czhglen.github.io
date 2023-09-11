@@ -83,13 +83,13 @@ author:
   name             : "Zihao Cheng"
   avatar           : "zihao.jpg"
   bio              : "Computational Mathematics & Physics | High-Performance Computing | Machine learning/Deep learning/Neural Network"
-  location         : "Vancouver, BC, Canada"
-  employer         : "University of British Columbia"
+  location         : "Vancouver, Canada"
+  employer         : "UBC"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "glennn1909@gmail.com"
   Basilisk         : "http://basilisk.fr/sandbox/zihaocheng/"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Zihao-Cheng"
   uri              :
   bitbucket        :
   codepen          :
