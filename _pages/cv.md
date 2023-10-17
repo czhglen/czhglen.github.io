@@ -18,7 +18,13 @@ Education
 
 Work experience
 ======
-* <strong>Graduate Research Assistant, 2019.9 \- 2023.8</strong>
+* <strong>Postdoctoral Researcher, 2023.10 \- 2023.12</strong>
+  * The University of British Columbia - Mathematics
+
+* <strong>Graduate Academic Assistant, 2023.8 \- 2023.9</strong>
+  * The University of British Columbia - Mechanical Engineering
+
+* <strong>Graduate Research Assistant, 2019.9 \- 2023.7</strong>
   * The University of British Columbia - Mathematics & Mechanical Engineering
   * Supervisor: Prof. Anthony Wachs
   * Duties: 
